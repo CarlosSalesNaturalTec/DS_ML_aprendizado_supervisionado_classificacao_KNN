@@ -1,10 +1,6 @@
 # Data Science / Machine Learning
-## Algorítimo de Classificação - KNN
-## Utilizando Python e Scikit-Learn
-## Aprendizado Supervisionado (supervised learning)
-## Dataset: Iris Dataset
-
-### Algorítimo de Classificação - KNN
+## Python e Scikit-Learn
+## Classificação - KNN
 
 O algoritmo KNN (k-vizinhos mais próximos) é um método não-paramétrico utilizado para a classificação e regressão. Em ambos os casos, a entrada consiste em calcular a distância entre os k exemplos de treinamento mais próximos.
 
@@ -27,4 +23,5 @@ Estas são as informações contidas no Dataset e também as que são utilizadas
 
 ## Referências
 [KNN Classification using Scikit-learn](https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn)
+
 [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Iris)
