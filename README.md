@@ -20,6 +20,8 @@ Para a classificação das flores Iris utilizaremos as seguintes caractéristica
 
 Estas são as informações contidas no Dataset e também as que são utilizadas como Input para fazer a predição.
 
+[Clique aqui e veja como funciona na prática.](https://github.com/CarlosSalesNaturalTec/DS_ML_aprendizado_supervisionado_classificacao_KNN/blob/master/exemplo_iris_dataset.ipynb)
+
 ### Referências:
 [KNN Classification using Scikit-learn](https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn)
 
