@@ -22,7 +22,7 @@ Estas são as informações contidas no Dataset e também as que são utilizadas
 
 👉 [Veja como fazer](https://github.com/CarlosSalesNaturalTec/DS_ML_aprendizado_supervisionado_classificacao_KNN/blob/master/exemplo_iris_dataset.ipynb)
 
-🤖 [Exemplo de Classificador treinado em ambiente de produção](https://github.com/CarlosSalesNaturalTec/DS_ML_aprendizado_supervisionado_classificacao_KNN/blob/master/exemplo_iris_dataset2.ipynb)
+🤖 [Exemplo de modelo treinado em ambiente de produção](https://github.com/CarlosSalesNaturalTec/DS_ML_aprendizado_supervisionado_classificacao_KNN/blob/master/exemplo_iris_dataset2.ipynb)
 
 ### Referências:
 [KNN Classification using Scikit-learn](https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn)
